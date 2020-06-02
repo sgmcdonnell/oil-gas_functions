@@ -2,7 +2,7 @@
 Oil and Gas Functions
 
 
-This repository contains function useful in the oil and gas industry.
+This repository contains functions useful in the oil and gas industry.
 
 
 1) The <b>padprod</b> function will return a time vs production plot for multiple wells and type curves.
