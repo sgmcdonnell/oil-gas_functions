@@ -1,5 +1,5 @@
 # oil-gas_functions
-Oil and Gas Functions
+# <b>Oil and Gas Functions</b>
 
 
 This repository contains functions useful in the oil and gas industry.
