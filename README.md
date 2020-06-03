@@ -6,7 +6,7 @@ This repository contains functions useful in the oil and gas industry.
 
 
 1) The <b>padprod</b> function will return a time vs production plot for multiple wells and type curves.
-![example output:](https://github.com/sgmcdonnell/oil-gas_functions/images/padprod.png?raw=true)
+![](https://github.com/sgmcdonnell/oil-gas_functions/blob/images/padprod.png?raw=true)
 
 2) The <b>2 category bar chart</b> will create a bar chart comparint two sets of costs- budget to actual. For example, I use this code to compare our completion and drillout actual costs to the budget.
 
