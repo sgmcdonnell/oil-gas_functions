@@ -12,6 +12,7 @@ This repository contains functions useful in the oil and gas industry.
 ![](https://github.com/sgmcdonnell/oil-gas_functions/blob/images/Badding%20DP%20PRODUCTION.png?raw=true)
 
 3) The <b>2 category bar chart</b> will create a bar chart comparint two sets of costs- budget to actual. For example, I use this code to compare our completion and drillout actual costs to the budget.
+![](https://github.com/sgmcdonnell/oil-gas_functions/blob/images/Budget_Actual.png?raw=true)
 
 4) The <b>DJ Gun Barrel</b> function is a quick way to plot diagrams of wellbores with relative spacing in formation and to each other.
 ![](https://github.com/sgmcdonnell/oil-gas_functions/blob/images/DJGB.png?raw=true)
